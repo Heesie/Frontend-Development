@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   ADE Homescherm
-  <img src="readme-images/ADEhomepagina.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/ADEhomepagina.png" width="375px" alt="De homepagina van Amsterdam Dance events website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   ADE Awekenings - Marlon Hoffstadt
-  <img src="readme-images/marlonpagina.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/marlonpagina.png" width="375px" alt="De pagina van een evenement waarbij de DJ Marlon Hoffstadt is en je hier informatie over kan vinden">
  
 </details>
 
@@ -57,6 +57,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+- je hoort continu wat je aan het typen bent, letter voor letter word opgenoemd.
+- op het moment dat ik naar mijn gekozen website toe ga, hoor ik de hele tijd "voer engels in afbeelding met codes die ik niet begrijp.
+- elke handeling die je uitvoert word opgenoemd, alleen het is erg lastig om te weten wanneer dingen gebeuren aangezien dit pas word opgenoemd wanneer je daadwerkelijk ergens op klinkt.
+- als je op google iets opzoekt word alles duidelijk opgenoemd. je hoort alle opties die er zijn om verder op te klikken.
+- bij de screenreader kan je op het scherm ook zien dat wat er verteld word er een blauw vierkantje omheen komt wat op dat moment verteld word.
+-   <img src="readme-images/googlescreenshot.png" width="375px"
+- 
+
 
 </details>
 
