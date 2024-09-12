@@ -1,0 +1,195 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+a {text-decoration: none; }
+
+ol {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+
+.homeachtergrondvideo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover; /* Zorgt ervoor dat de video het scherm vult zonder te vervormen */
+	z-index: -1;
+}
+
+
+header ul {
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 81px;
+    pointer-events: auto;
+    list-style-type: none;
+}
+
+header ul li:nth-of-type(4) {
+
+    position: relative;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    background-color: transparent;
+  }
+
+  header ul li:nth-of-type(5) {
+  font-size: 1.2rem;
+    text-decoration: none;
+    color: #fff;
+    padding: .6rem;
+    margin-right: 1.2rem;
+    margin-left: .4rem;
+    display: inline-block;
+}
+
+form input {
+    border: none;
+    background-image: none;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+} /* copy paste van eigen website de opmaak van de searchbalk */
+
+h1 {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif, sans-serif;
+	font-size: 3rem;
+    margin-bottom: 4rem;
+}
+
+main svg {
+	height: 1.4rem;
+    width: 1.5rem;
+    margin-right: 1rem;
+    margin-bottom: .6rem;
+    transition: transform .15s ease-in-out;
+}
+
+main span {
+color: #fff;
+font-family: Helvetica, sans-serif;
+}
+
+main section:nth-of-type(1)  {
+    background-color: #d9d9d9;
+font-family: Helvetica, sans-serif;
+margin-top: 14em;
+}
+
+section{
+	background-color: #d9d9d9;
+	font-family: Helvetica, sans-serif;
+}
+
+
+section a {
+	font-family: Helvetica Neue Roman\ 55, sans-serif;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    background-color: #ffff07;
+    border-radius: 3rem;
+    box-shadow: none;
+    color: #000;
+    font-size: 1.4rem;
+    height: auto;
+    line-height: 1;
+    padding: 1.35rem 3rem 1.5rem;
+    text-decoration: none;
+    text-transform: none;
+    transition: transform .4s cubic-bezier(.19,1,.22,1);
+}
+
+h2 {
+color:black ;
+font-family: Helvetica, sans-serif;
+font-size: 45px;
+}
+
+ol {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-column-gap: 5px;
+	grid-row-gap: 5px;
+	}
+
+footer {
+background-color: #1c1c1c;
+box-sizing: border-box;
+color: #fff;
+float: left;
+font-size: 1.2rem;
+padding: 3.5rem 0 110px;
+position: relative;
+width: 100%;
+}
+
+footer div {
+display: flex;
+
+}
+
+footer ul:nth-of-type(1){
+	display: flex;
+	gap: 1em;
+}
+
+footer ul li{
+	border: grey 1px solid;
+	padding: 1em;
+	border-radius: 100%;
+	position: relative;
+}
+
+footer ul a{
+	color: #fff;
+}
+
+/*
+footer ul:nth-of-type(2) {
+
+}*/
