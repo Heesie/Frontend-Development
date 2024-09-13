@@ -98,6 +98,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Ik heb vrijwel alle content op mijn website gekregen, ook heb ik al delen gestyled met css. Ik heb grids toegepast op plekken waar dit een handige oplossing was. Ik had wel moeite met de website in bepaalde delen op te splitstsen, bijvoorbeeld dat nu mijn h1 op de voorgrond staat van de video alleen ik wil wel graag de main van af onder de video laten beginnen. Hier moet ik dus nog even naar kijken. als ik dat gefixt heb kan ik gaan kijken om een parralex effect toe te voegen aan het begin van de pagina en daarna een side scroll onderaan de pagina.
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
